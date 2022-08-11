@@ -6,6 +6,8 @@ public class HelloWorld {
 		System.out.println("Hello World!");
 		System.out.println("First change.");
 		System.out.println("Second change.");
+		System.out.println("1 - Commit realizado na branch Hotfix!");
+		System.out.println("1.1 - Este é o passo 2.");
 	}
 
 }
